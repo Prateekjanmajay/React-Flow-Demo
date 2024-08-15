@@ -1,0 +1,44 @@
+.button {
+  background-color: yellowgreen;
+  border-radius: 15%;
+  padding: 8px;
+  font-size: 10px;
+  background: linear-gradient(to bottom, #02aab0, #00cdac);
+  color: black;
+}
+
+.startingNode {
+  box-sizing: border-box;
+  height: 170px;
+  width: 130px;
+  background: linear-gradient(to bottom, #00dbde, #fc00ff);
+
+  border-radius: 3%;
+}
+
+.data {
+  color: whitesmoke;
+  padding: 4px;
+  font-weight: 400;
+  font-size: 11px;
+  padding-top: 10px;
+}
+
+.secondNode {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  background: linear-gradient(to bottom, #00dbde, #fc00ff);
+
+  height: 200px;
+}
+
+.div {
+  margin: 4px;
+  text-decoration: none;
+  background: linear-gradient(to bottom, #02aab0, #00cdac);
+  padding: 4px;
+  border-radius: 15%;
+  font-size: 11px;
+  color: black;
+}
